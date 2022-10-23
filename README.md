@@ -27,8 +27,10 @@ How to use this GitHub repository as a template for your submission, including h
 ## Log
 
 - 2022-10-11 Gained an understanding on digital identity and existential risks, got anoverview of assessments and course structure 
-- 2022-19-18 Completed Github account and opened folders 
+- 2022-10-18 Completed Github account and opened folders 
 <br>
+- 2022-10-23 Wrote up notes in private place and then copied and moved some onto my permantn notes so that they are available for me to look over in the future 
+
 
 ## TODO
 
