@@ -37,3 +37,4 @@ How to use this GitHub repository as a template for your submission, including h
 - copy notes into permanent and index folders 
 - look over notes and V R reading to consolidate understanding 
 - Brainstorm ideas 
+- start making connections from my notes to my ideas and make sure tht my ideas are coherent with the task 
