@@ -29,7 +29,7 @@ How to use this GitHub repository as a template for your submission, including h
 - 2022-10-11 Gained an understanding on digital identity and existential risks, got anoverview of assessments and course structure 
 - 2022-10-18 Completed Github account and opened folders- index/private/project
 - 2022-10-23 Wrote up notes in private place and then copied and moved some onto my permanent notes so that they are available for me to look over in the future 
-- 2022-10-25 Spoke through log with peers to see what stage everyone is up to
+- 2022-10-25 Spoke through log with peers to see what stage everyone is up to/ Download Visual studio code on personal laptop/ Talk over project management and get to know different search engines and tools that can be used 
 
 ## TODO
 
@@ -41,11 +41,14 @@ How to use this GitHub repository as a template for your submission, including h
 
 **Week 3** 
 
-- Start making connections from my notes to my ideas using what we have learnt so far 
-- Consolidate Github syntax to make sure im using it correctly 
+- Start making connections from my notes to my ideas using what we have learnt so far/ round off basic understanding from week 2 
+- Consolidate Github syntax to make sure i'm using it correctly 
+- Look over what Critical thinking, Existential risks and Digital Identities are 
 
 
 **Week 4** 
 
 - Look at Agile project management/ Waterfall project management. 
--  Establish **key words** 
+-  Establish **key words**, and explore search engines and tools online.
+-  Download Visual Studio Code
+-  Time keeping
