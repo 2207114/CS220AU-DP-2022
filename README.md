@@ -33,19 +33,19 @@ How to use this GitHub repository as a template for your submission, including h
 
 ## TODO
 
-**week 2** 
+**Week 2** 
 
 - Copy notes into permanent and index folders 
 - Look over notes and V R reading to consolidate understanding 
 - Brainstorm brief ideas 
 
-**week 3** 
+**Week 3** 
 
 - Start making connections from my notes to my ideas using what we have learnt so far 
 - Consolidate Github syntax to make sure im using it correctly 
 
 
-**week 4** 
+**Week 4** 
 
-- Look at agile project management/ waterfall project management. 
--  
+- Look at Agile project management/ Waterfall project management. 
+-  Establish **key words** 
