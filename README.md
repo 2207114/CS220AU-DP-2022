@@ -30,6 +30,10 @@ How to use this GitHub repository as a template for your submission, including h
 - 2022-10-18 Completed Github account and opened folders- index/private/project
 - 2022-10-23 Wrote up notes in private place and then copied and moved some onto my permanent notes so that they are available for me to look over in the future 
 - 2022-10-25 Spoke through log with peers to see what stage everyone is up to/ Download Visual studio code on personal laptop/ Talk over project management and get to know different search engines and tools that can be used 
+- 2022-11-1 complete V & R map to consolodate undertstanding, listen to feedback from peers
+-2022-11-8 content production skills 
+-2022-11-15 set up a positive digital identitiy
+
 
 ## TODO
 
@@ -52,3 +56,14 @@ How to use this GitHub repository as a template for your submission, including h
 -  Establish **key words**, and explore search engines and tools online.
 -  Download Visual Studio Code
 -  Time keeping
+
+**Week 5**
+
+- set up GC for outside of seminar communication
+- ask for feedback by others 
+
+
+**Week 6**
+
+- speak to peers for feedback and share ideas 
+- set up ResearchGate accoutn as well as Linkedin account 
